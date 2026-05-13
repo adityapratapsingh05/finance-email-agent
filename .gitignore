@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+*.db
+*.log
+.DS_Store
+venv/
+env/
+outputs/dry_run/*.txt
+outputs/escalations/*.csv
+logs/
