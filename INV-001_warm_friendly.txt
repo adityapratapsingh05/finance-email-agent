@@ -1,0 +1,31 @@
+============================================================
+DRY-RUN EMAIL PREVIEW
+============================================================
+To:           rahul@example.com
+Invoice No:   INV-001
+Client:       Rahul Enterprises
+Amount Due:   Rs.45000.0
+Days Overdue: 4 days
+Tone:         warm_friendly
+============================================================
+SUBJECT: Friendly Reminder: Invoice INV-001 Payment Due
+============================================================
+
+Dear Rahul,
+
+Hope you are doing well! Just a quick friendly reminder that Invoice INV-001
+for Rs.45,000 was due on 05 May 2026 and is now 4 days overdue.
+
+We understand things get busy - this is likely just an oversight!
+Please process payment at your convenience using the link below:
+
+https://pay.yourcompany.com/invoice
+
+If you have already sent the payment, please ignore this message.
+
+Warm regards,
+Accounts Team - Your Company
+
+============================================================
+DRY-RUN - This email was NOT sent. Generated at 20260509_143022
+============================================================

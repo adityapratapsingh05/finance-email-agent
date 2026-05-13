@@ -1,0 +1,31 @@
+============================================================
+DRY-RUN EMAIL PREVIEW
+============================================================
+To:           abc@example.com
+Invoice No:   INV-003
+Client:       ABC Solutions
+Amount Due:   Rs.75000.0
+Days Overdue: 19 days
+Tone:         formal_serious
+============================================================
+SUBJECT: [FORMAL NOTICE] Invoice INV-003 Payment Significantly Overdue
+============================================================
+
+Dear ABC Solutions,
+
+This is a formal notice regarding Invoice INV-003 for Rs.75,000 which
+was due on 20 April 2026 and is now 19 days overdue.
+
+Continued non-payment may affect the terms of our ongoing business
+relationship. We request immediate settlement of the outstanding amount:
+
+https://pay.yourcompany.com/invoice
+
+Please contact accounts@yourcompany.com if you are experiencing difficulties.
+
+Yours faithfully,
+Accounts Receivable Department - Your Company
+
+============================================================
+DRY-RUN - This email was NOT sent. Generated at 20260509_143031
+============================================================

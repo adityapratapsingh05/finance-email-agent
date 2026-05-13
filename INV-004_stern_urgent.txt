@@ -1,0 +1,33 @@
+============================================================
+DRY-RUN EMAIL PREVIEW
+============================================================
+To:           sunita@example.com
+Invoice No:   INV-004
+Client:       Sunita Imports
+Amount Due:   Rs.200000.0
+Days Overdue: 27 days
+Tone:         stern_urgent
+============================================================
+SUBJECT: FINAL NOTICE - Invoice INV-004 - Immediate Payment Required
+============================================================
+
+Dear Sunita Imports,
+
+This is your FINAL NOTICE before this matter is escalated.
+
+Invoice INV-004 for Rs.200,000 was due on 12 April 2026 and is now
+27 days overdue. Multiple follow-ups have gone unanswered.
+
+Immediate payment is required. Any further delay will result in
+escalation to our legal department.
+
+Pay immediately here: https://pay.yourcompany.com/invoice
+
+Or contact us within 24 hours: accounts@yourcompany.com
+
+Regards,
+Finance Department - Your Company
+
+============================================================
+DRY-RUN - This email was NOT sent. Generated at 20260509_143045
+============================================================

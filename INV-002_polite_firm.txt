@@ -1,0 +1,36 @@
+============================================================
+DRY-RUN EMAIL PREVIEW
+============================================================
+To:           priya@example.com
+Invoice No:   INV-002
+Client:       Priya Traders
+Amount Due:   Rs.120000.0
+Days Overdue: 15 days
+Tone:         polite_firm
+============================================================
+SUBJECT: Payment Follow-Up — Invoice INV-002 Still Pending
+============================================================
+
+Dear Priya Traders,
+
+We hope this message finds you well. This is a follow-up regarding
+Invoice INV-002 for Rs.1,20,000 which was due on 28 April 2026 and
+remains outstanding as of today — now 15 days past the due date.
+
+We understand that processing delays can happen. However, we kindly
+request you to confirm your expected payment date by replying to this
+email within 24 hours, or process payment directly using the link below:
+
+https://pay.yourcompany.com/invoice
+
+If payment has already been made, please share the transaction reference
+so we can update our records.
+
+Thank you for your prompt attention to this matter.
+
+Regards,
+Accounts Receivable Team — Your Company
+
+============================================================
+DRY-RUN - This email was NOT sent. Generated at 20260509_143028
+============================================================
