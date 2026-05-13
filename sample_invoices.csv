@@ -1,0 +1,8 @@
+invoice_no,client_name,amount_due,due_date,contact_email,followup_count
+INV-001,Rahul Enterprises,45000,2026-05-05,rahul@example.com,1
+INV-002,Priya Traders,120000,2026-04-28,priya@example.com,2
+INV-003,ABC Solutions,75000,2026-04-20,abc@example.com,1
+INV-004,Sunita Imports,200000,2026-04-12,sunita@example.com,3
+INV-005,Megha Exports,55000,2026-03-31,megha@example.com,4
+INV-006,Fresh Ventures,30000,2026-05-13,fresh@example.com,0
+INV-007,Global Tech,95000,2026-04-26,global@example.com,1
